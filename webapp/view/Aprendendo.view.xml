@@ -7,7 +7,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="{i18n>Titulo}">
+				<Page id="page" title="{i18n>Titulo da pagina}">
 					<content />
 				</Page>
 			</pages>
