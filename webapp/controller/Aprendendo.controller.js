@@ -9,7 +9,7 @@ sap.ui.define([
 
 		return Controller.extend("aprendendo.aprendendo.controller.Aprendendo", {
 			onInit: function () {
-				
+				alert("opa meu mel")
 			}
 		});
 	});

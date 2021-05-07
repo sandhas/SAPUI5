@@ -7,8 +7,16 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="{i18n>Titulo da pagina}">
-					<content />
+				<Page id="page" title="{i18n>Pagina maneira com graficos maneiros}">
+					<content>
+						<Panel
+							headerText="Grafico maneiro que copiei de alguem">
+							<content>
+								<mvc:XMLView
+									viewName="aprendendo.aprendendo.view.Comparison"/>
+							</content>
+						</Panel>
+					</content>
 				</Page>
 			</pages>
 		</App>
