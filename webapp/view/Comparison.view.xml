@@ -1,5 +1,5 @@
 <mvc:View
-	controllerName="sap.suite.ui.microchart.sample.ComparisonMicroChartSb.ComparisonMicroChartSb"
+	controllerName="aprendendo.aprendendo.controller..Comparison"
 	xmlns="sap.suite.ui.microchart"
 	xmlns:mvc="sap.ui.core.mvc">
 	<ComparisonMicroChart size="L" scale="M" class="sapUiRFLContainer sapUiSmallMargin" press="press" shrinkable="true"

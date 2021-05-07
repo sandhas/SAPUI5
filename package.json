@@ -29,5 +29,8 @@
 		"dependencies": [
 			"@sap/ux-ui5-tooling"
 		]
+	},
+	"dependencies": {
+		"fiori-fundamentals": "^1.7.8"
 	}
 }
